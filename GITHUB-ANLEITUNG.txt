@@ -1,0 +1,19 @@
+BOYLE-MARIOTTE-LABOR AUF GITHUB PAGES VERÖFFENTLICHEN
+
+1. ZIP-Datei entpacken.
+2. GitHub Desktop installieren: https://desktop.github.com/
+3. GitHub Desktop öffnen und anmelden.
+4. File > Add local repository wählen.
+5. Den entpackten Ordner "boyle-mariotte-labor" auswählen.
+6. Falls angeboten: "create a repository" anklicken.
+7. Repository-Name EXAKT: boyle-mariotte-labor
+8. Auf "Publish repository" klicken.
+9. "Keep this code private" DEAKTIVIEREN.
+10. Im Browser das Repository öffnen.
+11. Settings > Pages öffnen.
+12. Bei Source "GitHub Actions" wählen.
+13. Unter Actions warten, bis ein grüner Haken erscheint.
+14. Link: https://IHR-BENUTZERNAME.github.io/boyle-mariotte-labor/
+
+WICHTIG:
+Wenn Sie das Repository anders benennen, muss in vite.config.js der Wert base angepasst werden.
